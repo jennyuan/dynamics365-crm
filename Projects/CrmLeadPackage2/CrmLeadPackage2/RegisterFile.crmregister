@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Register xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/crm/2011/tools/pluginregistration">
+  <Solutions>
+    <Solution Assembly="CrmLeadPackage2.RouteLead.dll" Id="b301cb7b-7124-47b5-8574-c0816ec43c2c" IsolationMode="Sandbox" SourceType="Database">
+      <WorkflowTypes>
+        <clear />
+        <WorkflowType FriendlyName="Route Lead Workflow" Name="RouteLeadActivity" Description="Distribute leads evently" WorkflowActivityGroupName="Route Leads" WorkflowActivityProjectName="RouteLead" Id="00000000-0000-0000-0000-000000000000" TypeName="CrmLeadPackage2.RouteLead.RouteLeadActivity" />
+      </WorkflowTypes>
+    </Solution>
+  </Solutions>
+  <XamlWorkflows>
+    <XamlWorkflowSolution Assembly="CrmLeadPackage2.RouteLead.dll" />
+  </XamlWorkflows>
+</Register>

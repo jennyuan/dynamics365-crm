@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2015\Projects\MOCPackage\MOCPackage\bin\Debug\MOCPackage.dll
+c:\users\administrator\documents\visual studio 2015\Projects\MOCPackage\MOCPackage\bin\Debug\MOCPackage.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\MOCPackage\MOCPackage\obj\Debug\MOCPackage.dll
+c:\users\administrator\documents\visual studio 2015\Projects\MOCPackage\MOCPackage\obj\Debug\MOCPackage.pdb

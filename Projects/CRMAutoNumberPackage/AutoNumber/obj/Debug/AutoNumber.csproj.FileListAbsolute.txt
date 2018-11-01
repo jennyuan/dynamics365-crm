@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\CRMAutoNumberPackage\AutoNumber\bin\Debug\CRMAutoNumberPackage.AutoNumber.dll
+c:\users\administrator\documents\visual studio 2015\Projects\CRMAutoNumberPackage\AutoNumber\bin\Debug\CRMAutoNumberPackage.AutoNumber.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CRMAutoNumberPackage\AutoNumber\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\administrator\documents\visual studio 2015\Projects\CRMAutoNumberPackage\AutoNumber\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\administrator\documents\visual studio 2015\Projects\CRMAutoNumberPackage\AutoNumber\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\administrator\documents\visual studio 2015\Projects\CRMAutoNumberPackage\AutoNumber\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\administrator\documents\visual studio 2015\Projects\CRMAutoNumberPackage\AutoNumber\obj\Debug\AutoNumber.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\CRMAutoNumberPackage\AutoNumber\obj\Debug\CRMAutoNumberPackage.AutoNumber.dll
+c:\users\administrator\documents\visual studio 2015\Projects\CRMAutoNumberPackage\AutoNumber\obj\Debug\CRMAutoNumberPackage.AutoNumber.pdb

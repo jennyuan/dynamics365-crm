@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\CrmLeadPackage2\RouteLead\obj\Debug\RouteLead.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\CrmLeadPackage2\RouteLead\bin\Debug\CrmLeadPackage2.RouteLead.dll
+c:\users\administrator\documents\visual studio 2015\Projects\CrmLeadPackage2\RouteLead\bin\Debug\CrmLeadPackage2.RouteLead.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CrmLeadPackage2\RouteLead\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\administrator\documents\visual studio 2015\Projects\CrmLeadPackage2\RouteLead\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\administrator\documents\visual studio 2015\Projects\CrmLeadPackage2\RouteLead\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+c:\users\administrator\documents\visual studio 2015\Projects\CrmLeadPackage2\RouteLead\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+c:\users\administrator\documents\visual studio 2015\Projects\CrmLeadPackage2\RouteLead\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\administrator\documents\visual studio 2015\Projects\CrmLeadPackage2\RouteLead\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\administrator\documents\visual studio 2015\Projects\CrmLeadPackage2\RouteLead\obj\Debug\CrmLeadPackage2.RouteLead.dll
+c:\users\administrator\documents\visual studio 2015\Projects\CrmLeadPackage2\RouteLead\obj\Debug\CrmLeadPackage2.RouteLead.pdb

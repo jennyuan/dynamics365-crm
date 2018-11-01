@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Register xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/crm/2011/tools/pluginregistration">
+  <Solutions>
+    <Solution Assembly="CRMAutoNumberPackage.AutoNumber.dll" Id="20f55c07-4cea-4619-854d-a0e50c910d04" IsolationMode="Sandbox" SourceType="Database">
+      <PluginTypes>
+        <clear />
+        <Plugin Description="Plug-in to Create of lead" FriendlyName="Create of lead" Name="CRMAutoNumberPackage.AutoNumber.PreOperationleadCreate" Id="e372ddfd-02ab-4ec6-bd8d-f5e0291c9a9a" TypeName="CRMAutoNumberPackage.AutoNumber.PreOperationleadCreate">
+          <Steps>
+            <clear />
+            <Step AsyncAutoDelete="false" Name="Create of lead" Description="Create of lead" Id="dd32fc0c-c9da-e811-b2d3-00155d018000" ImpersonatingUserId="00000000-0000-0000-0000-000000000000" MessageName="Create" Mode="Synchronous" PrimaryEntityName="lead" Rank="1" Stage="PreInsideTransaction" SupportedDeployment="ServerOnly" MessageEntityId="00000000-0000-0000-0000-000000000000">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+      </PluginTypes>
+    </Solution>
+  </Solutions>
+  <XamlWorkflows />
+</Register>
